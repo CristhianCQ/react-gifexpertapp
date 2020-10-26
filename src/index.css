@@ -18,7 +18,7 @@ input {
   flex-wrap: wrap;
 }
 
-.card {
+.card { 
   align-content: center;
   border: 1px solid grey;
   border-radius: 6px;
