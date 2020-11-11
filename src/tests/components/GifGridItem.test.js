@@ -1,4 +1,4 @@
- import React from 'react';// imr
+  import React from 'react';// imr
 import { shallow } from 'enzyme';
 import { GifGridItem } from '../../components/GifGridItem';
 

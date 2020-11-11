@@ -13,4 +13,4 @@ describe('Pruebas con getGifs Fetch', () => {
         expect(gits.length).toBe(0);
     })
     
-})
+}) 
